@@ -98,7 +98,7 @@ Run Quotes_EDA_Visualization.ipynb in *Jupyter Notebook* to explore the data usi
 - Bar chart visualization* helps in understanding which authors contribute the most quotes.  
 
 ## Project Submission
-GitHub Repository: [QuoteScape_Insights_Project](https://github.com/rajput5540/QuoteScrape_Insights_Project)  
+GitHub Repository: [QuoteScrape_Insight](https://github.com/rajput5540/QuoteScrape_Insights_Project)  
 
 ## Contributors
 - Sangeetha Thangam
