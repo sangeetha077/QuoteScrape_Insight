@@ -97,10 +97,10 @@ Run Quotes_EDA_Visualization.ipynb in *Jupyter Notebook* to explore the data usi
 - Some authors have significantly more quotes than others, indicating *high influence* in the dataset.  
 - *Bar chart visualization* helps in understanding which authors contribute the most quotes.  
 
-## *Project Submission*  
+## Project Submission
 *GitHub Repository:* [QuoteScape_Insights_Project](https://github.com/rajput5540/QuoteScrape_Insights_Project)  
 
-## *Contributors*
+## Contributors
 - *Sangeetha Thangam*
 - *Vishal Singh*  
-- *Sangeetha Thangam*
+
