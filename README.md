@@ -81,6 +81,6 @@ GitHub Repository: [QuoteScrape_Insight]
 
 ## Contributors
 
-..*Sangeetha Thangam
+..*Sangeetha Thangam.
 Vishal Singh
 
