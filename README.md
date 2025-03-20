@@ -80,7 +80,7 @@ Bar chart visualization helps in understanding which authors contribute the most
 GitHub Repository: [QuoteScrape_Insight]
 
 ## Contributors
-Alt-h1
-Sangeetha Thangam
+
+..*Sangeetha Thangam
 Vishal Singh
 
