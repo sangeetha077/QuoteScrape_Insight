@@ -1,7 +1,7 @@
 #  Quotes Scraping, SQL Insights, and Data Visualization  
 
 ## Project Overview 
-This project covers an end-to-end data analysis workflow, including *web scraping, **SQL-based insights, and **data visualization. We extract data from the **Quotes to Scrape* website, generate insights using SQL queries, and create visualizations using Python libraries.  
+This project covers an end-to-end data analysis workflow, including web scraping, SQL-based insights, and data visualization. We extract data from the Quotes to Scrape website, generate insights using SQL queries, and create visualizations using Python libraries.  
 
 ## Project Workflow  
 
