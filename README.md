@@ -51,7 +51,7 @@ This project covers an end-to-end data analysis workflow, including web scraping
 Run BW_Web_Scraping.ipynb to extract data and save it as quotes.csv.  
 
 ### 2. Load Data into SQL
-- Create a *database and table* using quotes_analysis.sql.  
+- Create a *database and table* using BW_Workbench_Query.sql.  
 - Import quotes.csv into the database.  
 
 ### 3. SQL Analysis 
