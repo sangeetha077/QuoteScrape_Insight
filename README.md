@@ -48,21 +48,21 @@ This project covers an end-to-end data analysis workflow, including web scraping
 ## How to Run the Project 
 
 ### 1. Web Scraping
-Run Quotes_Scraping.py to extract data and save it as quotes.csv.  
+Run BW_Web_Scraping.ipynb to extract data and save it as quotes.csv.  
 
 ### 2. Load Data into SQL
 - Create a *database and table* using quotes_analysis.sql.  
 - Import quotes.csv into the database.  
 
 ### 3. SQL Analysis 
-Run queries in quotes_analysis.sql to generate insights, such as:  
+Run queries in BW_Workbench_Query.sql to generate insights, such as:  
 - Most quoted authors
 - Most common tags
 - Authors with more than 5 quotes
 - The longest quote  
 
 ### 4. Exploratory Data Analysis (EDA)  
-Run Quotes_EDA_Visualization.ipynb in *Jupyter Notebook* to explore the data using visualizations.  
+Run BW_EDA_Visualization.ipynb in *Jupyter Notebook* to explore the data using visualizations.  
 
 ## Insights from Analysis 
 
@@ -98,7 +98,7 @@ Run Quotes_EDA_Visualization.ipynb in *Jupyter Notebook* to explore the data usi
 - Bar chart visualization* helps in understanding which authors contribute the most quotes.  
 
 ## Project Submission
-GitHub Repository: [QuoteScrape_Insight](https://github.com/rajput5540/QuoteScrape_Insights_Project)  
+GitHub Repository: [QuoteScrape_Insight]([https://github.com/sangeetha077/QuoteScrape_Insight]) 
 
 ## Contributors
 - Sangeetha Thangam
